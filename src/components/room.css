@@ -1,0 +1,69 @@
+.game-room {
+  text-align: center;
+  color: rgb(75, 70, 243);
+  background-color: rgb(170, 221, 255); /* Light background */
+  padding: 20px;
+}
+
+.room {
+  position: relative;
+  width: 800px;
+  height: 500px;
+  margin: auto;
+  border: 5px solid rgb(97, 47, 214);
+  border-radius: 10px;
+  background: url("./assets/room-background.jpg") no-repeat center center;
+  background-size: cover;
+  overflow: hidden;
+}
+
+.puzzle-item {
+  width: 100px;
+  height: 100px;
+  cursor: pointer;
+  position: absolute;
+  transition: transform 0.3s ease;
+}
+
+.puzzle-item:hover {
+  transform: scale(1.3);
+}
+
+/* Positions of puzzle objects */
+.lock {
+  top: 50px;
+  left: 100px;
+}
+
+.card {
+  top: 300px;
+  right: 150px;
+}
+
+.mirror {
+  top: 100px;
+  right: 50px;
+}
+
+.magnet {
+  bottom: 50px;
+  left: 250px;
+}
+
+.key {
+  bottom: 100px;
+  left: 300px;
+  width: 50px;
+  height: 50px;
+}
+
+/* ✅ Disabled effect for locked puzzles */
+.disabled {
+  opacity: 0.5;
+  pointer-events: none;
+}
+
+/* ✅ Highlight completed puzzles */
+.completed {
+  border: 3px solid gold;
+}

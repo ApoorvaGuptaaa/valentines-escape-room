@@ -8,7 +8,8 @@ export default function MirrorPuzzle({ setCompleted }) {
       <h2>🪞 Mirror Puzzle</h2>
       <button onClick={() => {
         setRevealed(true);
-        setCompleted(prev => ({ ...prev, mirror: true }));
+        alert("🔮 'LOVE' is the key! 🔮");
+        setCompleted(prev => ({ ...prev, mirror: true })); // ✅ Corrected
       }}>
         Use Mirror
       </button>

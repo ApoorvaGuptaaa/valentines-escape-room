@@ -1,8 +1,9 @@
 body {
     text-align: center;
     font-family: Arial, sans-serif;
-    background: url("../public/background.jpg") no-repeat center center fixed;
     background-size: cover;
+    background-color: rgb(170, 221, 255);
+    color: rgb(123, 52, 255);
   }
   
   .room {
