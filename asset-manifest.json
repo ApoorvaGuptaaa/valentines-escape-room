@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/ApoorvaGuptaaa/valentines-escape-room/static/css/main.71f07c58.css",
+    "main.js": "/ApoorvaGuptaaa/valentines-escape-room/static/js/main.815f0869.js",
+    "static/js/156.836d8b3b.chunk.js": "/ApoorvaGuptaaa/valentines-escape-room/static/js/156.836d8b3b.chunk.js",
+    "static/media/mirror.png": "/ApoorvaGuptaaa/valentines-escape-room/static/media/mirror.747bb80552c5673efc12.png",
+    "static/media/card.png": "/ApoorvaGuptaaa/valentines-escape-room/static/media/card.6ff2c27fd73b6b04cbc2.png",
+    "static/media/key.png": "/ApoorvaGuptaaa/valentines-escape-room/static/media/key.d5f5a99b5d19cf84a834.png",
+    "static/media/lock.png": "/ApoorvaGuptaaa/valentines-escape-room/static/media/lock.7ae578300271c49e45f5.png",
+    "static/media/magnet.png": "/ApoorvaGuptaaa/valentines-escape-room/static/media/magnet.e847699c05545a4e9318.png",
+    "static/media/room-background.jpg": "/ApoorvaGuptaaa/valentines-escape-room/static/media/room-background.eb81c553f826059f47e7.jpg",
+    "index.html": "/ApoorvaGuptaaa/valentines-escape-room/index.html",
+    "main.71f07c58.css.map": "/ApoorvaGuptaaa/valentines-escape-room/static/css/main.71f07c58.css.map",
+    "main.815f0869.js.map": "/ApoorvaGuptaaa/valentines-escape-room/static/js/main.815f0869.js.map",
+    "156.836d8b3b.chunk.js.map": "/ApoorvaGuptaaa/valentines-escape-room/static/js/156.836d8b3b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.71f07c58.css",
+    "static/js/main.815f0869.js"
+  ]
+}
