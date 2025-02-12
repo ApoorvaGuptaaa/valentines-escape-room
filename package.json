@@ -2,7 +2,7 @@
   "name": "valentines-escape-room",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://github.com/ApoorvaGuptaaa/valentines-escape-room",
+  "homepage": ".",
   "dependencies": {
     "cra-template": "1.2.0",
     "framer-motion": "^12.4.1",
